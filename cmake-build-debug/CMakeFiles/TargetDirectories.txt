@@ -1,0 +1,3 @@
+C:/Users/ufben/Documents/GitHub/NineGaps/cmake-build-debug/CMakeFiles/NineGaps.dir
+C:/Users/ufben/Documents/GitHub/NineGaps/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ufben/Documents/GitHub/NineGaps/cmake-build-debug/CMakeFiles/rebuild_cache.dir
